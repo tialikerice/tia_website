@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.29b9f542.css",
-    "main.js": "/static/js/main.18667d63.js",
+    "main.js": "/static/js/main.a49119c8.js",
     "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
     "static/media/donut.png": "/static/media/donut.632f2277a519fabf6bc0.png",
     "static/media/kiwi.png": "/static/media/kiwi.581c896686db0d57048a.png",
@@ -9,26 +9,35 @@
     "static/media/flower.png": "/static/media/flower.eed271830bc47668827c.png",
     "static/media/duck.png": "/static/media/duck.4bc3524333f5e9ba1726.png",
     "static/media/boom.png": "/static/media/boom.d26d282460acd88f674e.png",
+    "static/media/San_Francisco_Street_Tree.png": "/static/media/San_Francisco_Street_Tree.ff0cc161755601653c28.png",
+    "static/media/honor_research.png": "/static/media/honor_research.6c0bdd4c49f49eac4420.png",
+    "static/media/Yelp_Business_Finder_For_Pittsburgh.png": "/static/media/Yelp_Business_Finder_For_Pittsburgh.af0193af0babf572356e.png",
+    "static/media/yelp_crime.png": "/static/media/yelp_crime.2e951ef15e0ccd115160.png",
+    "static/media/new_york_income.png": "/static/media/new_york_income.f5cb7fd2a5627416afee.png",
     "static/media/ISUResearch.png": "/static/media/ISUResearch.1f58c13e223583f91200.png",
     "static/media/cat.png": "/static/media/cat.9df79be07d0d9d755893.png",
     "static/media/timeline_background.jpg": "/static/media/timeline_background.4528782fd3a5767d13b1.jpg",
     "static/media/fish.png": "/static/media/fish.aeaebbfe1d30517dd9e7.png",
     "static/media/dafu.png": "/static/media/dafu.8ac326fac36d7f80e608.png",
+    "static/media/2020_World_GDP.png": "/static/media/2020_World_GDP.99247b869477162900e9.png",
+    "static/media/bank_failures.png": "/static/media/bank_failures.3c5ffc4e79203f4940c3.png",
     "static/media/Cornell_University.png": "/static/media/Cornell_University.6558e99ecb7783c8ba9a.png",
     "static/media/profileimage.png": "/static/media/profileimage.3c383148764d71d797dd.png",
+    "static/media/color_bar.png": "/static/media/color_bar.ec9c624b89c9d2b3ed88.png",
     "static/media/ins.png": "/static/media/ins.5f598119fb3a04471ba5.png",
     "static/media/hello.png": "/static/media/hello.933292659b364042ee3f.png",
     "static/media/home_background.jpg": "/static/media/home_background.0c46d318e3b003f91360.jpg",
     "static/media/Iowa_State_University.png": "/static/media/Iowa_State_University.e08b7676df70aa4f4c7c.png",
     "static/media/hamster.JPG": "/static/media/hamster.6d1bca31301484b12918.JPG",
+    "static/media/senate_roll_call_nodes.png": "/static/media/senate_roll_call_nodes.b1ba6fdaa2e3aa8d242f.png",
     "static/media/Tyson_Foods.png": "/static/media/Tyson_Foods.f50d5618122201079953.png",
     "index.html": "/index.html",
     "main.29b9f542.css.map": "/static/css/main.29b9f542.css.map",
-    "main.18667d63.js.map": "/static/js/main.18667d63.js.map",
+    "main.a49119c8.js.map": "/static/js/main.a49119c8.js.map",
     "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.29b9f542.css",
-    "static/js/main.18667d63.js"
+    "static/js/main.a49119c8.js"
   ]
 }
