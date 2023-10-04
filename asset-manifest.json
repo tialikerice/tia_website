@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.29b9f542.css",
-    "main.js": "/static/js/main.a49119c8.js",
+    "main.css": "/static/css/main.dab57f60.css",
+    "main.js": "/static/js/main.98336c71.js",
     "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
     "static/media/donut.png": "/static/media/donut.632f2277a519fabf6bc0.png",
     "static/media/kiwi.png": "/static/media/kiwi.581c896686db0d57048a.png",
@@ -26,18 +26,19 @@
     "static/media/color_bar.png": "/static/media/color_bar.ec9c624b89c9d2b3ed88.png",
     "static/media/ins.png": "/static/media/ins.5f598119fb3a04471ba5.png",
     "static/media/hello.png": "/static/media/hello.933292659b364042ee3f.png",
+    "static/media/added-sugar.png": "/static/media/added-sugar.644897856077eee3d363.png",
     "static/media/home_background.jpg": "/static/media/home_background.0c46d318e3b003f91360.jpg",
     "static/media/Iowa_State_University.png": "/static/media/Iowa_State_University.e08b7676df70aa4f4c7c.png",
     "static/media/hamster.JPG": "/static/media/hamster.6d1bca31301484b12918.JPG",
     "static/media/senate_roll_call_nodes.png": "/static/media/senate_roll_call_nodes.b1ba6fdaa2e3aa8d242f.png",
     "static/media/Tyson_Foods.png": "/static/media/Tyson_Foods.f50d5618122201079953.png",
     "index.html": "/index.html",
-    "main.29b9f542.css.map": "/static/css/main.29b9f542.css.map",
-    "main.a49119c8.js.map": "/static/js/main.a49119c8.js.map",
+    "main.dab57f60.css.map": "/static/css/main.dab57f60.css.map",
+    "main.98336c71.js.map": "/static/js/main.98336c71.js.map",
     "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.29b9f542.css",
-    "static/js/main.a49119c8.js"
+    "static/css/main.dab57f60.css",
+    "static/js/main.98336c71.js"
   ]
 }
