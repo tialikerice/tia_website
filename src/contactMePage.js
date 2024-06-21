@@ -57,7 +57,7 @@ const About = () => {
           <ThemeProvider theme={theme}>
         <Button color= 'black' variant="outlined" onClick={handleClick}>
           <ChevronRightIcon></ChevronRightIcon>
-        <Typography sx={{ fontSize: "15px" }} style={{marginRight: 10}}> wangtc19960516@gmail.com </Typography>
+        <Typography sx={{ fontSize: "15px" }} style={{marginRight: 10}}> tialikework@gmail.com </Typography>
         <ContentCopyIcon></ContentCopyIcon>
     </Button>
     </ThemeProvider>
