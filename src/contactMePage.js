@@ -11,7 +11,7 @@ import { createTheme, ThemeProvider } from '@mui/material/styles';
 const About = () => {
   const navigate = useNavigate();
   const noPointer = {cursor: 'default'};
-  const [email, setEmail] = useState('wangtc19960516@gmail.com');
+  const [email, setEmail] = useState('tialikework@gmail.com');
   const theme = createTheme({
     palette: {
       black: {
